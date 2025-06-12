@@ -10,6 +10,7 @@ public class queues_array {
         que.add(3);
         que.add(4);
         que.peek();
+        que.poll();
         System.out.println(que.peek());
 
 
